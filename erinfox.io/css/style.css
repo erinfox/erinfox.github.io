@@ -134,8 +134,16 @@ h4{
   position: relative;
 }
 
+.portfolio-section img{
+  width: auto;
+  height: 200px;
+  align-items: center;
+  padding: 30px;
+}
 
-.cat {
+
+
+/*.cat {
 border:solid;
 border-width: 1px;
 }
@@ -154,13 +162,7 @@ border-width: 1px;
   border:solid;
   border-width: 1px;
 }
-
-.portfolio-section img{
-  width: 300px;
-  height: auto;
-  align-items: center;
-  padding: 30px;
-}
+*/
 
 
 
