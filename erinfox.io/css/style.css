@@ -95,18 +95,21 @@ padding-top:5px;
 h1{
   position:absolute;
   display: block;
-  top:1px;
-  left:100px;
+  top:10px;
+  text-align: center;
   font-size: 7vw;
-  padding-top: 0;
+/*  padding-top: 0;*/
+  color:white;
+  margin-top: 0px;
 }
 
 h3 {
   font-size: 1.5vw;
   position:absolute;
   display: block;
-  top:165px;
+  top:140px;
   left:120px;
+  color: white;
 
 }
 
