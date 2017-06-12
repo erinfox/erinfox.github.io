@@ -42,12 +42,16 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 
+
 }
 
 a:hover{
   color:gray;
 }
 
+a{
+    text-decoration: none;
+}
 
 .socials{
 display: flex;
