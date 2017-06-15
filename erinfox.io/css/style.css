@@ -1,7 +1,6 @@
 @media only screen and (max-width: 320px) {
 
    body { font-size: 2em; }
-
 }
 
 h5{
@@ -81,21 +80,17 @@ padding-top:5px;
   padding: 2px;
 }
 
-
 .socials .mail{
   width: 45px;
   height: 45px;
   padding: 2px;
 }
 
-
 .pineapple {
   width: 100%;
   height: 20%;
   padding-bottom: 0;
 }
-
-
 
 h1{
   position:absolute;
@@ -121,11 +116,6 @@ h4{
   margin-top: 15px;
   margin-bottom: 10px;
 }
-
-
-
-
-
 
 
 .about_and_skills{
@@ -156,7 +146,6 @@ h4{
   align-items: center;
 }
 
-
 .portfolio-section {
   text-align: center;
   padding-top: 0%;
@@ -171,9 +160,6 @@ h4{
   align-items: center;
   padding: 30px;
 }
-
-
-
 
 .contact-section {
   text-align: center;
