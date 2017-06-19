@@ -18,30 +18,18 @@ body{
 }*/
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #f0f0f0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index:1;
+    text-align: center;
 }
 
 
 li {
-  float: right;
+    display: inline;
 }
 
 
 li a {
-  display: block;
-  text-align:center;
   padding: 14px 16px;
   text-decoration: none;
-
-
 }
 
 a:hover{
@@ -53,6 +41,13 @@ a{
     color:black;
 }
 
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding-top:50px;
+  font-size: 4.5vw;
+}
 .socials{
 display: flex;
 justify-content: center;
