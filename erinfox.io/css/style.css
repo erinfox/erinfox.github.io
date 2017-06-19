@@ -30,10 +30,11 @@ li {
 li a {
   padding: 14px 16px;
   text-decoration: none;
+  color:gray;
 }
 
 a:hover{
-  color:gray;
+  color:#D4A190;
 }
 
 a{
@@ -47,6 +48,10 @@ h1 {
   justify-content: center;
   padding-top:50px;
   font-size: 4.5vw;
+}
+
+p{
+  color:gray;
 }
 .socials{
 display: flex;
