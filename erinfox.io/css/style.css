@@ -52,9 +52,13 @@ h4{
   font-size: 2vw;
   margin-top: 15px;
   margin-bottom: 10px;
-  text-align: center;
+  /*text-align: center;*/
 }
 
+.about_header{
+  padding-left: 350px;
+
+}
 
 p{
   color:gray;
@@ -62,11 +66,10 @@ p{
 }
 
 p.aboutP{
-  text-align: center;
-  left: 50%;
-    margin-right: -50%;
-/*      width: 40%;*/
-
+  display:block;
+  width:455px;
+  text-align:justify;
+  padding-left: 180px;
 }
 
 /*.about_and_skills{
