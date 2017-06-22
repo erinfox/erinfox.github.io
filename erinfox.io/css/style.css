@@ -48,16 +48,37 @@ h1 {
   font-size: 4.5vw;
 }
 
-h4{
+/*h4{
   font-size: 2vw;
   margin-top: 15px;
   margin-bottom: 10px;
-  /*text-align: center;*/
-}
+}*/
 
 .about_header{
   padding-left: 350px;
 
+}
+
+.skills_header {
+ font-size: 2vw;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.project_header {
+ font-size: 2vw;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+
+.contact_header {
+   font-size: 2vw;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 p{
